@@ -7,8 +7,15 @@
 >
 
 <url>
+ <loc>http://sbyeshao.tk</loc>
+ <priority>1.0</priority>
+ <lastmod>2020-04-28</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
  <loc>http://sbyeshao.tk/people.html</loc>
- <priority>0.3</priority>
+ <priority>0.8</priority>
  <lastmod>2020-04-28</lastmod>
  <changefreq>weekly</changefreq>
 </url>
@@ -22,13 +29,6 @@
 
 <url>
  <loc>http://sbyeshao.tk/english.html</loc>
- <priority>0.3</priority>
- <lastmod>2020-04-28</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://sbyeshao.tk</loc>
  <priority>0.3</priority>
  <lastmod>2020-04-28</lastmod>
  <changefreq>weekly</changefreq>

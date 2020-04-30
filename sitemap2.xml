@@ -1,0 +1,44 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">	
+<url>
+<loc>http://sbyeshao.tk</loc>
+<priority>1.00</priority>
+<lastmod>2020-04-30</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://sbyeshao.tk/english.html</loc>
+<priority>0.5</priority>
+<lastmod>2020-04-30</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://sbyeshao.tk/sitemap.html</loc>
+<priority>0.5</priority>
+<lastmod>2020-04-30</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://sbyeshao.tk/people.html</loc>
+<priority>0.5</priority>
+<lastmod>2020-04-30</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://sbyeshao.tk/sbfloppy/index.html</loc>
+<priority>0.5</priority>
+<lastmod>2020-04-30</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://sbyeshao.tk/about.html</loc>
+<priority>0.5</priority>
+<lastmod>2020-04-30</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+</urlset>
